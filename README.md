@@ -2,7 +2,7 @@
 
 ### About Me:
 
-Currently 💻 Full Stack Software Engineer, currently working at a pre-seed life sciences company.  
+Currently 💻 Full Stack Software Engineer, currently working at a life sciences company.  
 
 
 <br>
